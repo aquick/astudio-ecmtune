@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ECMTune</string>
+    <string name="bench">bench mulredc</string>
+    <string name="tune">tune</string>
+</resources>
